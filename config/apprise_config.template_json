@@ -1,0 +1,13 @@
+[
+  {
+  "url": "tgram://{bot_token}/{chat_id}"
+  },
+  {
+  "url": "twilio://{AccountSID}:{AuthToken}@{FromPhoneNo}/{PhoneNo}"
+  },
+  {
+  "url": "slack://{OAuthToken}/#{channel}"
+  },
+  {
+  "url": "https://discordapp.com/api/webhooks/758355267007021086/jkXsu7l0gj8h7gyDQv32QzAsO4LGoh9btw6cR9mtQ1LsGd3yd4nwr0jR95c8DA2zZnkW"  
+]
